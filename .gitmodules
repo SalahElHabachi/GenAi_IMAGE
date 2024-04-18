@@ -1,0 +1,3 @@
+[submodule "GAN_Pokemon"]
+	path = GAN_Pokemon
+	url = https://github.com/SalahElHabachi/GAN_Pokemon.git
